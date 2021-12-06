@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raunak017
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Ai and Machine Learning
+- 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email - raunakshukla17@gmail.com
 
