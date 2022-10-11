@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raunak017
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AI and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Machine Learning and AI Projects
 - 📫 How to reach me Email - raunakshukla17@gmail.com
 
 <!---
