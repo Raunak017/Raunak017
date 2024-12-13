@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Raunak017
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Machine Learning and AI Projects
-- 📫 How to reach me Email - raunakshukla17@gmail.com
+👋 Hi, I’m @Raunak017
+🚀 Passionate about building scalable software and developer-focused tools
+👀 Currently exploring real-time collaborative platforms and CI/CD workflows
+🌱 Expanding my expertise in React.js, Docker, and modern backend architectures
+💼 Open to collaborations on software engineering, machine learning, and AI projects
+📫 How to reach me Email - rs8668@nyu.edu
 
 <!---
 Raunak017/Raunak017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
