@@ -1,8 +1,13 @@
 👋 Hi, I’m @Raunak017
+
 🚀 Passionate about building scalable software and developer-focused tools
+
 👀 Currently exploring real-time collaborative platforms and CI/CD workflows
+
 🌱 Expanding my expertise in React.js, Docker, and modern backend architectures
+
 💼 Open to collaborations on software engineering, machine learning, and AI projects
+
 📫 How to reach me Email - rs8668@nyu.edu
 
 <!---
